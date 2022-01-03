@@ -1,0 +1,26 @@
+{
+  "name": "veloxpay",
+  "version": "0.0.1",
+  "description": "Library for working with the VeloxPay payment system API",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kikibyk/veloxpay.git"
+  },
+  "keywords": [
+    "payment",
+    "payment",
+    "system",
+    "pay"
+  ],
+  "author": "Kikibyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kikibyk/veloxpay/issues"
+  },
+  "homepage": "https://github.com/Kikibyk/veloxpay#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
